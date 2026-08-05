@@ -16,6 +16,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando apr
 ### 🗄️ Banco de Dados
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🛠️ Ferramentas
 
