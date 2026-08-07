@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software`** 💻
 
-Sou estudante de **Engenharia de Software** e **Técnico em Desenvolvimento de Sistemas**.
+Sou estudante de **Engenharia de Software** e sou formado em **Técnico em Desenvolvimento de Sistemas**.
 
 Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando aprender novas tecnologias, criar projetos práticos e desenvolver soluções que unam criatividade, inovação e programação. Atualmente, estou aprofundando meus conhecimentos em desenvolvimento back-end, banco de dados e boas práticas de desenvolvimento.
 
@@ -29,8 +29,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando apr
 
 ## 📚 Atualmente estudando
 
-- 💻 C#
-- 🗄️ MySQL
+- 💻 Criação de Site
 - 🏗️ Engenharia de Software
 - 📐 Arquitetura de Software
 - 🎮 Desenvolvimento de Jogos Digitais
@@ -39,6 +38,6 @@ Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando apr
 ## 🎯 Objetivos
 
 - Desenvolver aplicações robustas e bem estruturadas.
-- Aprimorar meus conhecimentos em desenvolvimento back-end e banco de dados.
+- Aprimorar meus conhecimentos em desenvolvimento de sistemas.
 - Construir projetos que fortaleçam meu portfólio.
 - Evoluir continuamente como desenvolvedor de software.
