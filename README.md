@@ -42,6 +42,3 @@ Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando apr
 - Aprimorar meus conhecimentos em desenvolvimento de sistemas.
 - Construir projetos que fortaleçam meu portfólio.
 - Evoluir continuamente como desenvolvedor de software.
-
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorganu&layout=compact&theme=radical)
